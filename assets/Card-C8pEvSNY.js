@@ -1,0 +1,1 @@
+import{_ as m,u as c,J as t,K as l,N as n,a7 as v}from"./index-CQinwZ-p.js";var C=["mode","children","getRootRef"],p=function(e){var a=e.mode,o=a===void 0?"tint":a,r=e.children,s=e.getRootRef,d=m(e,C),i=c();return t("div",l({},d,{ref:s,vkuiClass:n(v("Card",i),"Card--md-".concat(o))}),t("div",{vkuiClass:"Card__in"},r))};export{p as C};
