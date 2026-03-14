@@ -1,0 +1,1 @@
+System.register(["./index-legacy-GrxmGBn3.js"],function(e,t){"use strict";var s,n,r;return{setters:[e=>{s=e.j,n=e.G,r=e.C}],execute:function(){const t="5.3.4";e("default",()=>s.jsxs(s.Fragment,{children:[s.jsx(n,{}),s.jsx("div",{className:"text-center text-secondary",children:s.jsxs(r,{children:["v",t]})})]}))}}});

@@ -1,0 +1,1 @@
+import{j as s,G as e,C as t}from"./index-QIkunP9d.js";const n="5.3.4",r={version:n},a=()=>s.jsxs(s.Fragment,{children:[s.jsx(e,{}),s.jsx("div",{className:"text-center text-secondary",children:s.jsxs(t,{children:["v",r.version]})})]});export{a as default};
